@@ -6,3 +6,4 @@ print program_name
 print arguments
 print count
 print nothing
+print tres
